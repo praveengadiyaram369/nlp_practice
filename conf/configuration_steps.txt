@@ -1,0 +1,9 @@
+1) pipenv --python 3.7.5 (any python version would work)
+2) pipenv shell
+3) pipenv install nltk
+4) Download wordnet corpus
+    import nltk
+    nltk.download('wordnet')
+
+5) pipenv install numpy matplotlib sklearn gensim
+6) 
