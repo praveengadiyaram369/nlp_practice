@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .vscode
+sample_projects/spam_classification/smsspamcollection.zip
+sample_projects/spam_classification/smsspamcollection
