@@ -131,3 +131,4 @@ dmypy.json
 .vscode
 sample_projects/spam_classification/smsspamcollection.zip
 sample_projects/spam_classification/smsspamcollection
+sample_projects/sentiment_analysis/inputdata.csv
