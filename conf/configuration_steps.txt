@@ -1,6 +1,7 @@
-1) conda create --name nlp_setup python=3.8 jupyterlab numpy pandas matplotlib scikit-learn nltk
+1) conda create --name nlp_setup python=3.7.6 jupyterlab numpy pandas matplotlib scikit-learn nltk
 2) conda activate nlp_setup
-3) Download wordnet corpus
+3) conda install tensorflow
+4) Download wordnet corpus
     import nltk
     nltk.download('wordnet')
     nltk.download('punkt')
