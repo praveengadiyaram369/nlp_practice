@@ -133,3 +133,5 @@ sample_projects/spam_classification/smsspamcollection.zip
 sample_projects/spam_classification/smsspamcollection
 sample_projects/sentiment_analysis/inputdata.csv
 sample_projects/language_translation/fra-eng
+sample_projects/jigsaw_toxic_comments_classification/data
+sample_projects/jigsaw_toxic_comments_classification/embeddings
