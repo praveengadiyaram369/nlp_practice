@@ -135,3 +135,4 @@ sample_projects/sentiment_analysis/inputdata.csv
 sample_projects/language_translation/fra-eng
 sample_projects/jigsaw_toxic_comments_classification/data
 sample_projects/jigsaw_toxic_comments_classification/embeddings
+sample_projects/poetry_generation/data/robert_frost.txt
