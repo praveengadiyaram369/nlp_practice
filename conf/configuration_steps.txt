@@ -7,4 +7,6 @@
     nltk.download('punkt')
     nltk.download('stopwords')
 
-4) 
+5) conda install spacy
+    python -m spacy download en_core_web_sm
+    
